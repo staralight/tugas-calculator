@@ -1,0 +1,7 @@
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\bin\Debug\Program.exe.config
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\bin\Debug\Program.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\bin\Debug\Program.pdb
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\obj\Debug\Program.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\praktikum\CalculatorApp\Program\obj\Debug\Program.pdb
